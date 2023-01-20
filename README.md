@@ -1,3 +1,3 @@
 # BlogBasicPython
 
-Experimentando Backend com pyhton e django
+Experimentando Backend com python e django
